@@ -1,0 +1,6 @@
+{
+  "name": "Margin Level Calculator",
+  "description": "CFD trade margin calculator with screenshot text recognition and 100% / 30% margin level analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
